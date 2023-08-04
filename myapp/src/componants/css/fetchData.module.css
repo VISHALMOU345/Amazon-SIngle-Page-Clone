@@ -1,0 +1,42 @@
+.R{
+    width: 100px;
+    margin-left: 18rem ;
+    margin-top: -14.5rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.api{   
+    height: 200px;
+    line-height: 10rem;
+    list-style: none;
+    margin-top: 20px;
+    margin-left: 18rem;
+}
+
+.title{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -16.5rem;
+    position:absolute;
+    left: 30rem;
+    /* top: -19rem; */
+}
+
+.price{
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -14.5rem;
+    position:absolute;
+    left: 30rem;
+}
+.rating{
+    margin-top: -12.5rem;
+    position:absolute;
+    left: 30rem;
+}
+
